@@ -1,0 +1,46 @@
+body {
+  width: 900px;
+  margin: 50px auto;
+}
+
+header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.top {
+  display: flex;
+}
+
+#slashes {
+  background-image: url(/img/hr-img.png);
+  width: 900px;
+  height: 10px;
+  margin: 30px auto;
+}
+
+#title {
+  margin-top: 50px;
+}
+
+#undertext {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+#print {
+display: flex;
+}
+
+#pizza {
+  margin: 30px auto;
+}
+
+
+
+/* 
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'Yellowtail', cursive; 
+*/
